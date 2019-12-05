@@ -17,6 +17,7 @@
     "no-void-expression": false,
     "no-redundant-jsdoc": false,
     "prefer-type-cast": false,
+    "non-literal-fs-path": false,
     "typedef": [
       true,
       "parameter",
